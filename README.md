@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/DhruvilCG/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/DhruvilCG/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/DhruvilCG/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/DhruvilCG/Leetcode/tree/master/0704-binary-search) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/DhruvilCG/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/DhruvilCG/Leetcode/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
