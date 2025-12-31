@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/DhruvilCG/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/DhruvilCG/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/DhruvilCG/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/DhruvilCG/Leetcode/tree/master/0268-missing-number) |
@@ -52,9 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/DhruvilCG/Leetcode/tree/master/0014-longest-common-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/DhruvilCG/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/DhruvilCG/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DhruvilCG/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
