@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DhruvilCG/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/DhruvilCG/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/DhruvilCG/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/DhruvilCG/Leetcode/tree/master/0075-sort-colors) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DhruvilCG/Leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/DhruvilCG/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/DhruvilCG/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
