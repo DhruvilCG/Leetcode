@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DhruvilCG/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/DhruvilCG/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/DhruvilCG/Leetcode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/DhruvilCG/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/DhruvilCG/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/DhruvilCG/Leetcode/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DhruvilCG/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/DhruvilCG/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/DhruvilCG/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/DhruvilCG/Leetcode/tree/master/0704-binary-search) |
 ## Math
