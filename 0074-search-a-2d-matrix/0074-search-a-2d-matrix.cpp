@@ -16,6 +16,9 @@ public:
 
 
         for (int i = 0 ; i < matrix.size() ; i++) {
+            if (target > matrix[i][matrix[i].size()-1]) {
+                continue ;
+            }
             int st = 0 ;
             int end = matrix[i].size()-1 ;
             while (st <= end) {
