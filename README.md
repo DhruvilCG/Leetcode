@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/DhruvilCG/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/DhruvilCG/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/DhruvilCG/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DhruvilCG/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/DhruvilCG/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -148,5 +149,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DhruvilCG/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DhruvilCG/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 <!---LeetCode Topics End-->
