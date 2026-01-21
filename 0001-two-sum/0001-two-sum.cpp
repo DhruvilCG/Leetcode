@@ -17,18 +17,34 @@ public:
 
 
 
-        unordered_map <int,int> map ;
 
-        for (int i = 0 ; i < nums.size() ; i++) {
-            int first = nums[i] ;
-            int second = target-first ;
 
-            if (map.find(second) != map.end()) {
-                return {i , map[second]} ;
+        // unordered_map <int,int> map ;
+
+        // for (int i = 0 ; i < nums.size() ; i++) {
+        //     int first = nums[i] ;
+        //     int second = target-first ;
+
+        //     if (map.find(second) != map.end()) {
+        //         return {i , map[second]} ;
+        //     }
+        //     map[first] = i ;
+        // }
+
+        // return {} ;
+
+
+
+
+        unordered_map<int, int> m1;
+
+        for (int i = 0; i < nums.size(); i++) {
+            if (m1.find(target - nums[i]) != m1.end()) {
+                return {i, m1[target - nums[i]]};
             }
-            map[first] = i ;
+            m1[nums[i]] = i;
         }
 
-        return {} ;
+        return {};
     }
 };
