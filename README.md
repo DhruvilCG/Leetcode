@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DhruvilCG/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/DhruvilCG/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/DhruvilCG/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/DhruvilCG/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/DhruvilCG/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DhruvilCG/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DhruvilCG/Leetcode/tree/master/0075-sort-colors) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DhruvilCG/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/DhruvilCG/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DhruvilCG/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/DhruvilCG/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/DhruvilCG/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DhruvilCG/Leetcode/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DhruvilCG/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
