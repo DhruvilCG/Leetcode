@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DhruvilCG/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/DhruvilCG/Leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/DhruvilCG/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/DhruvilCG/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DhruvilCG/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/DhruvilCG/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/DhruvilCG/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DhruvilCG/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DhruvilCG/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/DhruvilCG/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/DhruvilCG/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/DhruvilCG/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/DhruvilCG/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3454-separate-squares-ii) |
