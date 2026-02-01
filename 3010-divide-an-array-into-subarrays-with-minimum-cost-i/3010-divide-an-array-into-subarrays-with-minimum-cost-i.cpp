@@ -14,16 +14,24 @@ public:
 
 
 
-        int one = INT_MAX , two = INT_MAX;
-        for (int i = 1 ; i < nums.size() ; i++) {
-            if (one > nums[i]) {
-                two = one;
-                one = nums[i]; 
-            } else if (two > nums[i]) {
-                two = nums[i];
-            }
-        }
+        sort(nums.begin()+1 , nums.end());
+        return nums[0]+nums[1]+nums[2];
 
-        return one+two+nums[0];
+
+
+
+
+
+        // int one = INT_MAX , two = INT_MAX;
+        // for (int i = 1 ; i < nums.size() ; i++) {
+        //     if (one > nums[i]) {
+        //         two = one;
+        //         one = nums[i]; 
+        //     } else if (two > nums[i]) {
+        //         two = nums[i];
+        //     }
+        // }
+
+        // return one+two+nums[0];
     }
 };
