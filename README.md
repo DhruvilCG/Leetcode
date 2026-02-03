@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/DhruvilCG/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DhruvilCG/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DhruvilCG/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2460-apply-operations-to-an-array](https://github.com/DhruvilCG/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DhruvilCG/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/DhruvilCG/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DhruvilCG/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DhruvilCG/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/DhruvilCG/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhruvilCG/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2460-apply-operations-to-an-array](https://github.com/DhruvilCG/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/DhruvilCG/Leetcode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/DhruvilCG/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DhruvilCG/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/DhruvilCG/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DhruvilCG/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
