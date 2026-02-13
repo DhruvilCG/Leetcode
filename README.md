@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DhruvilCG/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/DhruvilCG/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DhruvilCG/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DhruvilCG/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/DhruvilCG/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/DhruvilCG/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/DhruvilCG/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/DhruvilCG/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DhruvilCG/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [3713-longest-balanced-substring-i](https://github.com/DhruvilCG/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Tree
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DhruvilCG/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DhruvilCG/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/DhruvilCG/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Prefix Sum
 |  |
 | ------- |
