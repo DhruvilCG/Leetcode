@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/DhruvilCG/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/DhruvilCG/Leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/DhruvilCG/Leetcode/tree/master/0401-binary-watch) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DhruvilCG/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## String
@@ -361,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/DhruvilCG/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/DhruvilCG/Leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
