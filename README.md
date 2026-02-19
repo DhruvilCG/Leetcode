@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DhruvilCG/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DhruvilCG/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/DhruvilCG/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/DhruvilCG/Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/DhruvilCG/Leetcode/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/DhruvilCG/Leetcode/tree/master/1025-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DhruvilCG/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -375,9 +376,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/DhruvilCG/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/DhruvilCG/Leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/DhruvilCG/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/DhruvilCG/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
