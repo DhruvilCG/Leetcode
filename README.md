@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DhruvilCG/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/DhruvilCG/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DhruvilCG/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/DhruvilCG/Leetcode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/DhruvilCG/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/DhruvilCG/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DhruvilCG/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/DhruvilCG/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/DhruvilCG/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/DhruvilCG/Leetcode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/DhruvilCG/Leetcode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/DhruvilCG/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/DhruvilCG/Leetcode/tree/master/1025-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DhruvilCG/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
