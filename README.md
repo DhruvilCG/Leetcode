@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/DhruvilCG/Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/DhruvilCG/Leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/DhruvilCG/Leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/DhruvilCG/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DhruvilCG/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/DhruvilCG/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0338-counting-bits](https://github.com/DhruvilCG/Leetcode/tree/master/0338-counting-bits) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DhruvilCG/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1025-divisor-game](https://github.com/DhruvilCG/Leetcode/tree/master/1025-divisor-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/DhruvilCG/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
