@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/DhruvilCG/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/DhruvilCG/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
+| [3798-largest-even-number](https://github.com/DhruvilCG/Leetcode/tree/master/3798-largest-even-number) |
 ## Greedy
 |  |
 | ------- |
