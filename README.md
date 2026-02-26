@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DhruvilCG/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/DhruvilCG/Leetcode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DhruvilCG/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DhruvilCG/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DhruvilCG/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## String
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/DhruvilCG/Leetcode/tree/master/0761-special-binary-string) |
 | [1108-defanging-an-ip-address](https://github.com/DhruvilCG/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/DhruvilCG/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DhruvilCG/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1678-goal-parser-interpretation](https://github.com/DhruvilCG/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DhruvilCG/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/DhruvilCG/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/DhruvilCG/Leetcode/tree/master/0412-fizz-buzz) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DhruvilCG/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1920-build-array-from-permutation](https://github.com/DhruvilCG/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DhruvilCG/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/DhruvilCG/Leetcode/tree/master/2460-apply-operations-to-an-array) |
