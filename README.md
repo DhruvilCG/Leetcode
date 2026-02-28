@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/DhruvilCG/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3701-compute-alternating-sum](https://github.com/DhruvilCG/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3721-longest-balanced-subarray-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/DhruvilCG/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3454-separate-squares-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/DhruvilCG/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/DhruvilCG/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3714-longest-balanced-substring-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0761-special-binary-string](https://github.com/DhruvilCG/Leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/DhruvilCG/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3721-longest-balanced-subarray-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
