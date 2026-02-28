@@ -27,11 +27,27 @@ public:
 
 
 
-        long long result = 0;
+        // long long result = 0;
+        // const int MOD =  1e9 + 7;
+        // for (int i = 1 ; i <= n ; i++) {
+        //     int digits = (log2(i) + 1);
+        //     result = ((result << digits)%MOD + i)%MOD;
+        // }
+
+        // return result;
+
+
+
+        long result = 0;
+        int digits = 0;
         const int MOD =  1e9 + 7;
-        for (int i = 1 ; i <= n ; i++) {
-            int digits = (log2(i) + 1);
-            result = ((result << digits)%MOD + i)%MOD;
+
+        for (int num = 1 ; num <= n ; num++) {
+            if ((num & (num-1)) == 0) {
+                digits++;
+            }
+
+            result = ((result << digits)%MOD + num)%MOD ;
         }
 
         return result;
