@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/DhruvilCG/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DhruvilCG/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/DhruvilCG/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DhruvilCG/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/DhruvilCG/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DhruvilCG/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/DhruvilCG/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DhruvilCG/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/DhruvilCG/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/DhruvilCG/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DhruvilCG/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/DhruvilCG/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2651-calculate-delayed-arrival-time](https://github.com/DhruvilCG/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2769-find-the-maximum-achievable-number](https://github.com/DhruvilCG/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DhruvilCG/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DhruvilCG/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/DhruvilCG/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DhruvilCG/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2965-find-missing-and-repeated-values](https://github.com/DhruvilCG/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DhruvilCG/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DhruvilCG/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/DhruvilCG/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DhruvilCG/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DhruvilCG/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3713-longest-balanced-substring-i](https://github.com/DhruvilCG/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Tree
 |  |
