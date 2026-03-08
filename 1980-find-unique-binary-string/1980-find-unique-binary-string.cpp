@@ -7,6 +7,7 @@ public:
         }
 
         string binary = "";
+        // for (int i = 0 ; i < pow(2 , nums[0].size()) ; i++) {
         for (int i = 0 ; i < (1 << nums[0].size()) ; i++) {
             if (s.find(i) == s.end()) {
                 binary = (bitset<16> (i)).to_string();
