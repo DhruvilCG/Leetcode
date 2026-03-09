@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1551-minimum-operations-to-make-array-equal](https://github.com/DhruvilCG/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/DhruvilCG/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DhruvilCG/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/DhruvilCG/Leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/DhruvilCG/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/DhruvilCG/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DhruvilCG/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
