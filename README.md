@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/DhruvilCG/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DhruvilCG/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhruvilCG/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DhruvilCG/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/DhruvilCG/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DhruvilCG/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/DhruvilCG/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DhruvilCG/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/DhruvilCG/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhruvilCG/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DhruvilCG/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DhruvilCG/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DhruvilCG/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DhruvilCG/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DhruvilCG/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/DhruvilCG/Leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/DhruvilCG/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DhruvilCG/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/DhruvilCG/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DhruvilCG/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/DhruvilCG/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/DhruvilCG/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DhruvilCG/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1672-richest-customer-wealth](https://github.com/DhruvilCG/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DhruvilCG/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/DhruvilCG/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/DhruvilCG/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2965-find-missing-and-repeated-values](https://github.com/DhruvilCG/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/DhruvilCG/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DhruvilCG/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/DhruvilCG/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DhruvilCG/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -412,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/DhruvilCG/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/DhruvilCG/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DhruvilCG/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3714-longest-balanced-substring-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## String Matching
