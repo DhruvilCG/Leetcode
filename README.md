@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/DhruvilCG/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2651-calculate-delayed-arrival-time](https://github.com/DhruvilCG/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2769-find-the-maximum-achievable-number](https://github.com/DhruvilCG/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/DhruvilCG/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/DhruvilCG/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/DhruvilCG/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/DhruvilCG/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DhruvilCG/Leetcode/tree/master/0002-add-two-numbers) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/DhruvilCG/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DhruvilCG/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Recursion
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DhruvilCG/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/DhruvilCG/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/DhruvilCG/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
