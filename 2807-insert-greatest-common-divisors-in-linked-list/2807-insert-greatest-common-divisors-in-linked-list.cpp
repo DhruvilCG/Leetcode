@@ -11,6 +11,37 @@
 class Solution {
 public:
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
+        // if (head->next == nullptr) {
+        //     return head;
+        // }
+
+        // ListNode* temp = head;
+
+        // while (temp->next != nullptr) {
+        //     int st = min(temp->val, temp->next->val), end = max(temp->val, temp->next->val);
+        //     int divisor;
+        //     for (int i = 1; i <= st; i++) {
+        //         if (st % i == 0 && end % i == 0) {
+        //             divisor = i;
+        //         }
+        //     }
+
+        //     ListNode* newNode = new ListNode(divisor);
+        //     newNode->next = temp->next;
+        //     temp->next = newNode;
+        //     temp = temp->next->next;
+        // }
+
+        // return head;
+
+
+
+
+
+
+
+
+
         if (head->next == nullptr) {
             return head;
         }
@@ -19,12 +50,7 @@ public:
 
         while (temp->next != nullptr) {
             int st = min(temp->val, temp->next->val), end = max(temp->val, temp->next->val);
-            int divisor;
-            for (int i = 1; i <= st; i++) {
-                if (st % i == 0 && end % i == 0) {
-                    divisor = i;
-                }
-            }
+            int divisor = gcd(st , end);
 
             ListNode* newNode = new ListNode(divisor);
             newNode->next = temp->next;
@@ -33,5 +59,6 @@ public:
         }
 
         return head;
+
     }
 };
