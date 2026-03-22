@@ -1,5 +1,33 @@
 class Solution {
 public:
+    // void rotate(vector<vector<int>>& mat) {
+    //     for (int i = 0; i < mat.size(); i++) {
+    //         for (int j = i + 1; j < mat[i].size(); j++) {
+    //             swap(mat[i][j], mat[j][i]);
+    //         }
+    //     }
+
+    //     for (int i = 0; i < mat.size(); i++) {
+    //         reverse(mat[i].begin(), mat[i].end());
+    //     }
+    // }
+    // bool findRotation(vector<vector<int>>& mat, vector<vector<int>>& target) {
+    //     vector<vector<int>> original = mat;
+    //     int i = 0;
+    //     while (mat != target && (original != mat || i == 0)) {
+    //         rotate(mat);
+    //         i++;
+    //     }
+
+    //     return mat == target;
+    // }
+
+
+
+
+
+
+
     void rotate(vector<vector<int>>& mat) {
         for (int i = 0; i < mat.size(); i++) {
             for (int j = i + 1; j < mat[i].size(); j++) {
@@ -12,13 +40,13 @@ public:
         }
     }
     bool findRotation(vector<vector<int>>& mat, vector<vector<int>>& target) {
-        vector<vector<int>> original = mat;
-        int i = 0;
-        while (mat != target && (original != mat || i == 0)) {
+        for (int i = 0 ; i < 4 ; i++) {
+            if (mat == target) {
+                return true;
+            }
             rotate(mat);
-            i++;
         }
 
-        return mat == target;
+        return false;
     }
 };
