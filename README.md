@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/DhruvilCG/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DhruvilCG/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/DhruvilCG/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/DhruvilCG/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DhruvilCG/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/DhruvilCG/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2906-construct-product-matrix](https://github.com/DhruvilCG/Leetcode/tree/master/2906-construct-product-matrix) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/DhruvilCG/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhruvilCG/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DhruvilCG/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/DhruvilCG/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2460-apply-operations-to-an-array](https://github.com/DhruvilCG/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/DhruvilCG/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhruvilCG/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DhruvilCG/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DhruvilCG/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/DhruvilCG/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DhruvilCG/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DhruvilCG/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DhruvilCG/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/DhruvilCG/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DhruvilCG/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/DhruvilCG/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/DhruvilCG/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3453-separate-squares-i](https://github.com/DhruvilCG/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3454-separate-squares-ii) |
 ## Math
