@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DhruvilCG/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DhruvilCG/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/DhruvilCG/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/DhruvilCG/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/DhruvilCG/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3798-largest-even-number](https://github.com/DhruvilCG/Leetcode/tree/master/3798-largest-even-number) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhruvilCG/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/DhruvilCG/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/DhruvilCG/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/DhruvilCG/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Trie
 |  |
 | ------- |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DhruvilCG/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/DhruvilCG/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Simulation
 |  |
 | ------- |
