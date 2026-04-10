@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/DhruvilCG/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3701-compute-alternating-sum](https://github.com/DhruvilCG/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3721-longest-balanced-subarray-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/DhruvilCG/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/DhruvilCG/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/DhruvilCG/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Bit Manipulation
 |  |
 | ------- |
