@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DhruvilCG/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/DhruvilCG/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2126-destroying-asteroids](https://github.com/DhruvilCG/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DhruvilCG/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DhruvilCG/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/DhruvilCG/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DhruvilCG/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DhruvilCG/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DhruvilCG/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/DhruvilCG/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DhruvilCG/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DhruvilCG/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DhruvilCG/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DhruvilCG/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/DhruvilCG/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/DhruvilCG/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/DhruvilCG/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DhruvilCG/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/DhruvilCG/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Trie
 |  |
