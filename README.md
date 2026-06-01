@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/DhruvilCG/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DhruvilCG/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/DhruvilCG/Leetcode/tree/master/3516-find-closest-person) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/DhruvilCG/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Linked List
 |  |
 | ------- |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/DhruvilCG/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/DhruvilCG/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/DhruvilCG/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Stack
 |  |
 | ------- |
