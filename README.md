@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DhruvilCG/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DhruvilCG/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DhruvilCG/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/DhruvilCG/Leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/DhruvilCG/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DhruvilCG/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2396-strictly-palindromic-number](https://github.com/DhruvilCG/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/DhruvilCG/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DhruvilCG/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/DhruvilCG/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DhruvilCG/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DhruvilCG/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DhruvilCG/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DhruvilCG/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/DhruvilCG/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Search
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DhruvilCG/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3453-separate-squares-i](https://github.com/DhruvilCG/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3454-separate-squares-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DhruvilCG/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/DhruvilCG/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/DhruvilCG/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DhruvilCG/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/DhruvilCG/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DhruvilCG/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Trie
 |  |
 | ------- |
