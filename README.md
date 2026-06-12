@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/DhruvilCG/Leetcode/tree/master/3516-find-closest-person) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DhruvilCG/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/DhruvilCG/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/DhruvilCG/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Linked List
 |  |
 | ------- |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/DhruvilCG/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/DhruvilCG/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/DhruvilCG/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/DhruvilCG/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Combinatorics
 |  |
 | ------- |
