@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DhruvilCG/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/DhruvilCG/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/DhruvilCG/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/DhruvilCG/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/DhruvilCG/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3798-largest-even-number](https://github.com/DhruvilCG/Leetcode/tree/master/3798-largest-even-number) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/DhruvilCG/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DhruvilCG/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/DhruvilCG/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/DhruvilCG/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/DhruvilCG/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Doubly-Linked List
