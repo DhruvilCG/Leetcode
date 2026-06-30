@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/DhruvilCG/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhruvilCG/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DhruvilCG/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DhruvilCG/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DhruvilCG/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DhruvilCG/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2396-strictly-palindromic-number](https://github.com/DhruvilCG/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DhruvilCG/Leetcode/tree/master/0002-add-two-numbers) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DhruvilCG/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DhruvilCG/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DhruvilCG/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/DhruvilCG/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DhruvilCG/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DhruvilCG/Leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/DhruvilCG/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0682-baseball-game](https://github.com/DhruvilCG/Leetcode/tree/master/0682-baseball-game) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DhruvilCG/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/DhruvilCG/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
