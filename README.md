@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/DhruvilCG/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DhruvilCG/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/DhruvilCG/Leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DhruvilCG/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/DhruvilCG/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/DhruvilCG/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/DhruvilCG/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/DhruvilCG/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DhruvilCG/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/DhruvilCG/Leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/DhruvilCG/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DhruvilCG/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DhruvilCG/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
