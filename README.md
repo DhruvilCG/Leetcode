@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/DhruvilCG/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/DhruvilCG/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/DhruvilCG/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/DhruvilCG/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DhruvilCG/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2906-construct-product-matrix](https://github.com/DhruvilCG/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DhruvilCG/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/DhruvilCG/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DhruvilCG/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DhruvilCG/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/DhruvilCG/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DhruvilCG/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DhruvilCG/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/DhruvilCG/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
