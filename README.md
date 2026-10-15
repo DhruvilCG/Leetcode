@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/DhruvilCG/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DhruvilCG/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2906-construct-product-matrix](https://github.com/DhruvilCG/Leetcode/tree/master/2906-construct-product-matrix) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DhruvilCG/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/DhruvilCG/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/DhruvilCG/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DhruvilCG/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/DhruvilCG/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DhruvilCG/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DhruvilCG/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DhruvilCG/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/DhruvilCG/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/DhruvilCG/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/DhruvilCG/Leetcode/tree/master/1622-fancy-sequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DhruvilCG/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3454-separate-squares-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/DhruvilCG/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvilCG/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -715,4 +718,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/DhruvilCG/Leetcode/tree/master/1122-relative-sort-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DhruvilCG/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
